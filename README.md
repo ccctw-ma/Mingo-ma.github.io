@@ -1,1 +1,1 @@
-# Mingo-ma.giyhub.io
+# Mingo-ma.github.io
